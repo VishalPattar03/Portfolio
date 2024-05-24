@@ -13,9 +13,14 @@ $breakpoint arguement choices:
 Inside media queries 1em is always 16px i.e 1em = 16px at every screen size only inside media queries
 */
 
+/* :root {
+  --primary: #FFEA00;
+  --primary-variant: #FFEA00cc;
+} */
+
 :root {
-  --primary: #D2D600;
-  --primary-variant: #D2D600cc;
+  --primary: #30D5C8;
+  --primary-variant: #30d5c7af;
 }
 
 *,
